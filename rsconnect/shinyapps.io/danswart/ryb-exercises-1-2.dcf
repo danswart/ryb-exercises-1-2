@@ -1,0 +1,12 @@
+name: ryb-exercises-1-2
+title: ryb-exercises-1-2
+username: danswart
+account: danswart
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10682459
+bundleId: 7991250
+url: https://danswart.shinyapps.io/ryb-exercises-1-2/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
