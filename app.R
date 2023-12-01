@@ -1,13 +1,9 @@
 # Shiny app for RYB Chapter 1 Exercise 1-2 from my book 'Reimagining Your Business, A Personalized Guidebook to Beat Your Competition'
 
 # Deployed to shinyapps.io Nov 13, 2023
-# Re-named and Re-deployed to shinyapps.io Nov 30, 2023
 
 # PUSH to GitHub any time the app is updated
 # REPUBLISH via RStudio any time the app is updated
-
-# Use this command if you change name of this project and the GitHub repo to match it.
-# usethis::use_git()
 
 
 library(shiny)
